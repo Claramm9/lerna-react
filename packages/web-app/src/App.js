@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div>
         <Message />
-        <span>Hi</span>
+        <span>Hello</span>
       </div>
     </div>
   );
