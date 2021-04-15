@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <div>
         <Message />
+        <span>Hi</span>
       </div>
     </div>
   );
