@@ -1,5 +1,5 @@
 {
-  "name": "ui-components",
+  "name": "@demo-lerna/ui-components",
   "version": "1.0.0",
   "description": "ui components for statup ui project",
   "author": "saurabhnemade",
