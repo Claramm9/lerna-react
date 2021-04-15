@@ -4,7 +4,7 @@ import styles from './styles.module.css'
 
 const Message = () => (
   <div className={styles.test}>
-    <Button label='Testing Lerna' />
+    <div><Button label='Testing Lerna' /></div>
     <span>Lerna Demo</span>
   </div>
 );
