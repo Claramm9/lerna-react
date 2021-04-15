@@ -4,7 +4,7 @@ const buttonStyle = {
   padding: '10px 20px'
 };
 
-const Button = ({ label, onClick }) => {
+const Button = ({ label, onClick = () => {}}) => {
   return (
     <button
     className="btn btn-default"
