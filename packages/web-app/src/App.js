@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Message from 'ui-components';
+import Message from 'components';
 
 function App() {
   return (
